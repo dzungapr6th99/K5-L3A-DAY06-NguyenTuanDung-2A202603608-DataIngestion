@@ -7,7 +7,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Ollama và Milvus chạy trên Jetson. Lệnh checkpoint dùng mặc định `http://192.168.1.246:11434` và `http://192.168.1.246:19530`. Nếu PowerShell còn giữ địa chỉ tunnel cũ, đặt lại địa chỉ trong cửa sổ hiện tại:
+Ollama và Milvus chạy trên Jetson AGX Orin 64GB. Lệnh checkpoint dùng mặc định `http://192.168.1.246:11434` và `http://192.168.1.246:19530`. Nếu PowerShell còn giữ địa chỉ tunnel cũ, đặt lại địa chỉ trong cửa sổ hiện tại:
 
 ```powershell
 $py = ".\.venv\Scripts\python.exe"
