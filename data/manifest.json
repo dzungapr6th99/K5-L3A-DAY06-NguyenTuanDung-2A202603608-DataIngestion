@@ -1,0 +1,581 @@
+{
+  "counting_rule": "One independent documentation page per source. Page 1 is logical. Count normalized characters excluding HTML comments.",
+  "sources": [
+    {
+      "source_id": "smolvla:docs/source/smolvla.mdx",
+      "title": "SmolVLA",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/smolvla.mdx",
+      "local_path": "data/vla/smolvla/docs/source/smolvla.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "70600f967da2d37d4544b6e78239ccd10c774fde1dea3f0a73ac801a98a96596",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 6190
+        }
+      ]
+    },
+    {
+      "source_id": "smolvla:docs/source/lerobot-dataset-v3.mdx",
+      "title": "LeRobotDataset v3.0",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/lerobot-dataset-v3.mdx",
+      "local_path": "data/vla/smolvla/docs/source/lerobot-dataset-v3.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "a382f4e8b3a23def306832aa743a3a23c7b8dd10350956424b0f74d9b62c77eb",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 20052
+        }
+      ]
+    },
+    {
+      "source_id": "smolvla:docs/source/remote_inference.mdx",
+      "title": "Remote Inference",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/remote_inference.mdx",
+      "local_path": "data/vla/smolvla/docs/source/remote_inference.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "d03ab3a34b263cece75379418564d31b534a52579853b7f13d02a339d4edaf5f",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 32844
+        }
+      ]
+    },
+    {
+      "source_id": "smolvla:docs/source/rtc.mdx",
+      "title": "Real-Time Chunking (RTC)",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/rtc.mdx",
+      "local_path": "data/vla/smolvla/docs/source/rtc.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "522be8206ee4dd92e831387804725554e60e6805c5385b0a4dd80e1f85159bed",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 11514
+        }
+      ]
+    },
+    {
+      "source_id": "smolvla:docs/source/rename_map.mdx",
+      "title": "Rename Map and Empty Cameras",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/rename_map.mdx",
+      "local_path": "data/vla/smolvla/docs/source/rename_map.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "884e64437ef2c7beacd3a25ebf69d2e34efeb68f38bff17e713a949d7033239b",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 5438
+        }
+      ]
+    },
+    {
+      "source_id": "smolvla:docs/source/so101.mdx",
+      "title": "SO-101",
+      "category": "smolvla",
+      "source_path_or_url": "https://github.com/huggingface/lerobot/blob/fe1c54594f6ba275fccf210b9f7b11f0e2324b89/docs/source/so101.mdx",
+      "local_path": "data/vla/smolvla/docs/source/so101.mdx",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/smolvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "fe1c54594f6ba275fccf210b9f7b11f0e2324b89",
+      "sha256": "b0b561065069a61792c88262a9544808aa676dc46a525b42a74c1dc543451beb",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 14066
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:README.md",
+      "title": "Start the policy server",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/README.md",
+      "local_path": "data/vla/gr00t/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "929972230c8d3c4ceb7e7ef4e0795b3ef8d13b5f8c936ffae25fcd31f8b1a524",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 39017
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:FAQ.md",
+      "title": "GR00T N1.7 FAQ",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/FAQ.md",
+      "local_path": "data/vla/gr00t/FAQ.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "5da4ced535d5afb35b6a64919f720a4f87c45141cde42d74c0d2dd13b19fdf2b",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 6779
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/data_config.md",
+      "title": "How to prepare your modality configuration",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/data_config.md",
+      "local_path": "data/vla/gr00t/getting_started/data_config.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "e8567b303d844bfe174ac8ee0c75f38e86486e01f6017920c8ddf581d3fc9150",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 11153
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/data_preparation.md",
+      "title": "Robot Data Preparation Guide",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/data_preparation.md",
+      "local_path": "data/vla/gr00t/getting_started/data_preparation.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "6771ae919f841898371822b9d2cd4ffeea5c6c9c6f84c1b2d6725acc661b8f9d",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 9643
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/finetune_new_embodiment.md",
+      "title": "Fine-tune on Custom Embodiments (\"NEW_EMBODIMENT\")",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/finetune_new_embodiment.md",
+      "local_path": "data/vla/gr00t/getting_started/finetune_new_embodiment.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "0866df58044a77b4581590c44f05bad3fb3e8947a1e6cd16e1b62e4030f97c26",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 9581
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/hardware_recommendation.md",
+      "title": "Hardware Recommendations",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/hardware_recommendation.md",
+      "local_path": "data/vla/gr00t/getting_started/hardware_recommendation.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "2b92de088a3c1c7d0094d703d8a07dd9cafe91eab9dedb8e8dc13197385ed52a",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 5295
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/policy.md",
+      "title": "Understanding the GR00T Policy API",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/policy.md",
+      "local_path": "data/vla/gr00t/getting_started/policy.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "f5ec4c9aa37714837c1d0758597b1f07e0dd7a3def8715be26660368828fec04",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 24319
+        }
+      ]
+    },
+    {
+      "source_id": "gr00t:getting_started/real_world_deployment.md",
+      "title": "GR00T Real-World Deployment Guide",
+      "category": "gr00t",
+      "source_path_or_url": "https://github.com/NVIDIA/Isaac-GR00T/blob/3b49067943eb1ab2eb2203b93d461c4390c78da3/getting_started/real_world_deployment.md",
+      "local_path": "data/vla/gr00t/getting_started/real_world_deployment.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/gr00t/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "sha256": "a11002f2955fc16d65118a3bd15fa6647afdf405e89abfc78f25f2e5fdfe2fb0",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 21540
+        }
+      ]
+    },
+    {
+      "source_id": "openvla:README.md",
+      "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+      "category": "openvla",
+      "source_path_or_url": "https://github.com/openvla/openvla/blob/c8f03f48af692657d3060c19588038c7220e9af9/README.md",
+      "local_path": "data/vla/openvla/README.md",
+      "license_or_permission": "MIT",
+      "license_path": "data/vla/openvla/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "c8f03f48af692657d3060c19588038c7220e9af9",
+      "sha256": "ba8e9a2884e38a8000dafc98af4116512e37b0e143dad2f940100482bfd6b75c",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 38046
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:README.md",
+      "title": "openpi",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/README.md",
+      "local_path": "data/vla/pi0/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "567fc57766bd736664f50126cab8145af4071ca16cc5e238f2b11e369169c3b5",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 21508
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:docs/norm_stats.md",
+      "title": "Normalization statistics",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/docs/norm_stats.md",
+      "local_path": "data/vla/pi0/docs/norm_stats.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "62e4a39ea7fcdae53b4466942db348c3e38fc016b7f7a5273cafed649ebe614b",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 5141
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:docs/remote_inference.md",
+      "title": "Running openpi models remotely",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/docs/remote_inference.md",
+      "local_path": "data/vla/pi0/docs/remote_inference.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "5b62754525100f958a1bb5bcd0f5ea406c8d120e582c4785742072ccef79e24c",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 3452
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:examples/aloha_real/README.md",
+      "title": "Run Aloha (Real Robot)",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/examples/aloha_real/README.md",
+      "local_path": "data/vla/pi0/examples/aloha_real/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "cd56d8224ee9500837fd83a00ffe7cc1c96008558a4a81fabaf96cdccf9a9a24",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 6351
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:examples/aloha_sim/README.md",
+      "title": "Run Aloha Sim",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/examples/aloha_sim/README.md",
+      "local_path": "data/vla/pi0/examples/aloha_sim/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "3e25e00b1fb746176cfab0b74e8edad4a2c182f6fe1145f57d68bb67b38e5609",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 721
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:examples/droid/README_train.md",
+      "title": "Training on DROID",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/examples/droid/README_train.md",
+      "local_path": "data/vla/pi0/examples/droid/README_train.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "e742f04cc0852a8bf86c4941dbaa6b436ab906bfca08c612371a50462acf5e4a",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 7502
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:examples/libero/README.md",
+      "title": "LIBERO Benchmark",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/examples/libero/README.md",
+      "local_path": "data/vla/pi0/examples/libero/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "a2caaf5459c4b01837b73aa93a6f69e8cdf10385b39c34eba36afa85f83fafe9",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 2528
+        }
+      ]
+    },
+    {
+      "source_id": "pi0:examples/ur5/README.md",
+      "title": "UR5 Example",
+      "category": "pi0",
+      "source_path_or_url": "https://github.com/Physical-Intelligence/openpi/blob/215abfb217dbac7d5f1273282331b9b1866c0479/examples/ur5/README.md",
+      "local_path": "data/vla/pi0/examples/ur5/README.md",
+      "license_or_permission": "Apache-2.0",
+      "license_path": "data/vla/pi0/LICENSE",
+      "accessed_at": "2026-11-13",
+      "snapshot": "215abfb217dbac7d5f1273282331b9b1866c0479",
+      "sha256": "fc5b84486abd83ba0a6116415c19859f73c64d7575936cec3b7188791b17f664",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 4846
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/isaac-cable-insertion-policy-deployment/SKILL.md",
+      "title": "Isaac Cable Insertion Policy Deployment",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/isaac-cable-insertion-policy-deployment/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/isaac-cable-insertion-policy-deployment/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "e8fe5736d036bbc834df2ece32f568f8ec95f3e78ec1503a01fbc82636dbfe40",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 7434
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/isaac-cable-insertion-policy-training/SKILL.md",
+      "title": "Isaac Cable Insertion Policy Training",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/isaac-cable-insertion-policy-training/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/isaac-cable-insertion-policy-training/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "1435dc6157e7b5fcd4efac695ce9b677c06904bfdc57423fe57a827fccb863a0",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 4861
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-diagnostic/SKILL.md",
+      "title": "Jetson Diagnostic",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-diagnostic/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-diagnostic/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "5c2d3242b0d493090c3534c21cb9b087f85214956a216e7fae9525f3fc4cde5c",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 10446
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-memory-audit/SKILL.md",
+      "title": "Jetson Memory Audit",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-memory-audit/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-memory-audit/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "c751cb62c4a6b4ac4286528dff868d3266184ee7bd91ec6de818d456bb538cdd",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 9023
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-package/SKILL.md",
+      "title": "Jetson Package & Environment",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-package/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-package/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "e7f8ab40a2ba875045fa3fb15f524394cee1d85b4bbf7f80831fc79acec4dbd0",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 7250
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-inference-mem-tune/SKILL.md",
+      "title": "Jetson Inference Memory Tuning",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-inference-mem-tune/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-inference-mem-tune/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "329a322031d2971ad46e2d88bd4744219eeb788e03cbd33001aa4a4fe35c19ab",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 10872
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-video-pipeline/SKILL.md",
+      "title": "Jetson Video Pipeline",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-video-pipeline/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-video-pipeline/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "4c28f55df3ee0cc7c9dfa086dd24f571f5d1d679ed4a7461788602d1e938c2e6",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 8676
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-customize-camera/SKILL.md",
+      "title": "Customize camera (CSI / MIPI / GMSL sensor bring-up)",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-customize-camera/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-customize-camera/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "6568b29b31be2c7d83a10eccb9f00e9fb3719014e4d354fca16a738d9ce43a6f",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 9481
+        }
+      ]
+    },
+    {
+      "source_id": "nvidia_skills:skills/jetson-video-benchmark/SKILL.md",
+      "title": "Jetson Video Benchmark",
+      "category": "nvidia_skills",
+      "source_path_or_url": "https://github.com/NVIDIA/skills/blob/d59805503396547363ff0079c436b1cae496e1af/skills/jetson-video-benchmark/SKILL.md",
+      "local_path": "data/vla/nvidia_skills/skills/jetson-video-benchmark/SKILL.md",
+      "license_or_permission": "CC-BY-4.0",
+      "license_path": "data/vla/nvidia_skills/LICENSE-CC-BY-4.0",
+      "accessed_at": "2026-11-13",
+      "snapshot": "d59805503396547363ff0079c436b1cae496e1af",
+      "sha256": "4e90b11572d477009a9b3641b45e041f8eca92bba0bdfd85126eaba4590fc5be",
+      "pages": [
+        {
+          "page": 1,
+          "chars": 6365
+        }
+      ]
+    }
+  ]
+}

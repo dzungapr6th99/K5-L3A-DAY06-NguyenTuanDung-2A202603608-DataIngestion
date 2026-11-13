@@ -8,6 +8,10 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 |---|---|---|
 | Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
 
+## Đề tài DAY06
+
+[Xem đề tài VLA và kế hoạch corpus](TOPIC-VLA.md). [Setup Milvus và Ollama](SETUP-DAY06.md).
+
 ## Bắt đầu nhanh
 
 Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.

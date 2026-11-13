@@ -1,0 +1,44 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1": 4,
+    "evidence_hit_at_3": 6
+  },
+  {
+    "strategy": "A",
+    "split": "test",
+    "total": 5,
+    "hit_at_1": 1,
+    "evidence_hit_at_3": 1
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1": 5,
+    "evidence_hit_at_3": 6
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "total": 5,
+    "hit_at_1": 3,
+    "evidence_hit_at_3": 3
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1": 5,
+    "evidence_hit_at_3": 6
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "total": 5,
+    "hit_at_1": 3,
+    "evidence_hit_at_3": 3
+  }
+]
